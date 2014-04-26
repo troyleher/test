@@ -1,4 +1,4 @@
-A simple test exercise to fimalrise myself with the basic achtitural concepts of git
+A simple test exercise to familiarize myself with the basic achetitural concepts of git.
 ====
 
 test git
